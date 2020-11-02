@@ -1,0 +1,2 @@
+wcs.ImagePanel
+wcs.Administration

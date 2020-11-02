@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733264969160",
+    "firebase_url": "https://waste-collection-system-a5af7.firebaseio.com",
+    "project_id": "waste-collection-system-a5af7",
+    "storage_bucket": "waste-collection-system-a5af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733264969160:android:de7d7c4418050cec0314fd",
+        "android_client_info": {
+          "package_name": "com.example.wcsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733264969160-il2s1f866974ea09bt3ls3vbogkt6l4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0kAB_XTEy0L5wj56itj3CwYrSJ-HvZgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733264969160-il2s1f866974ea09bt3ls3vbogkt6l4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
